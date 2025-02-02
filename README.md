@@ -26,9 +26,6 @@ How to Run the Project
 
 Ensure Python is installed. Install the required Python packages using:
 
-pip install -r requirements.txt
-
-If you don't have a requirements.txt file, manually install the necessary packages:
 
 pip install opencv-python mediapipe torch numpy pandas
 
